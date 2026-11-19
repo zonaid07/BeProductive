@@ -1,0 +1,6 @@
+{
+  "name": "DailyPath",
+  "description": "Personal daily companion for Islamic prayers, English learning, vocabulary, Bangladesh & world news, Bengali literature, and Islamic history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
